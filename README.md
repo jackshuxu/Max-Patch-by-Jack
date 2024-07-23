@@ -30,9 +30,9 @@ https://github.com/user-attachments/assets/71e446eb-cb74-407b-af1b-ba699166ffba
 
 https://github.com/jackshuxu/Max-Patch-by-Jack/blob/main/Prophet%205.maxpat
 
-
+<p align="center">
 <img width="674" alt="SubSynth" src="https://github.com/user-attachments/assets/c0dded96-a650-4b88-bd9a-abe8d521e270">
-
+</p>
 https://github.com/jackshuxu/Max-Patch-by-Jack/blob/main/Subtractive%20Synthesizer.maxpat
 
 
